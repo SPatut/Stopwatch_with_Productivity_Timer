@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Stopwatch with Productivity Timer/task" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Check length" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Elvis throwing exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Safe round" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Reverse me if you can" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/N-th symbol" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Name Card" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The number of tens" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The same line" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Latte" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Tea" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/User Information" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
